@@ -1,0 +1,36 @@
+.body{
+    color:#fff
+}
+.header{
+    background-image: url(/background01.jpg);
+    height: 300px;
+    font-size: 1.5em;
+    text-align: center;
+}
+.header img{
+    height: 200px;
+    width: 200px;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+.main{
+    display flex;
+    text-align: center;
+
+}
+.thongtincanhan{
+    border-style:groove;
+    border-color: bisque;
+    border-LEFT: 10PX;
+    BORDER-WIDTH:10PX;
+
+}
+.ketquahoctap{
+    border-style:groove;
+    border-color: bisque;
+    border-LEFT: 10PX;
+    BORDER-WIDTH:10PX;
+
+}
